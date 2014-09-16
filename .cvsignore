@@ -1,0 +1,5 @@
+*.prefs
+*.idea
+*.zip
+.project
+*.cvsignore
