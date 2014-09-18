@@ -178,7 +178,7 @@
 	
 	p, ul, ol, dl, table
 	{
-		margin-bottom: 2em;
+	/*	margin-bottom: 2em;*/
 	}
 	
 	section,
@@ -1006,3 +1006,16 @@
 		{
 			color: #777;
 		}
+
+.fullWidth{
+    width: 100%;
+}
+.halfWidth{
+    width: 50%;
+}
+.oneFourthWidth{
+    width: 25%;
+}
+table, th, td {
+    border: 1px solid black;
+}
