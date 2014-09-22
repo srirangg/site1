@@ -212,3 +212,9 @@
     margin-top: 2%;
 }
 
+.achievements ol,.achievements ul{
+    list-style: square outside none;
+}
+.aboutSectionBox h3{
+    width: 50%;
+}
